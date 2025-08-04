@@ -8,5 +8,5 @@ This set of libraries and scripts allow for the simulation of asteroid-ateroid c
 
 
 
-Custom settings are available, and libraries to propagate asteroids and generate observations are better explained in read\_me
+Custom settings are available, and libraries to propagate asteroids and generate observations are better explained in read\_me.docx
 
